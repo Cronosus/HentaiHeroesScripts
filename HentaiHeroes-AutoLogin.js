@@ -8,6 +8,9 @@
 // @match        http*://*.hentaiheroes.com/*
 // @match        http*://*.comixharem.com/*
 // @grant        none
+// @license      MIT
+// @updateURL   https://github.com/RuperSama/HentaiHeroesScripts/raw/main/HentaiHeroes-AutoLogin.js
+// @downloadURL https://github.com/RuperSama/HentaiHeroesScripts/raw/main/HentaiHeroes-AutoLogin.js
 // ==/UserScript==
 
 var userEmail = "";
