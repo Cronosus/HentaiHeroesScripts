@@ -7,7 +7,7 @@
 // @match        http*://eggs-ext.kinkoid.com/*
 // @match        http*://*.hentaiheroes.com/*
 // @match        http*://*.comixharem.com/*
-// @grant        none
+// @grant        GM_addStyle
 // @license      MIT
 // @updateURL   https://github.com/Cronosus/HentaiHeroesScripts/raw/main/HentaiHeroes-AutoLogin.js
 // @downloadURL https://github.com/Cronosus/HentaiHeroesScripts/raw/main/HentaiHeroes-AutoLogin.js
