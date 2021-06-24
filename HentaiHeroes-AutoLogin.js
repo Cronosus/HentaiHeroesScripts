@@ -7,7 +7,10 @@
 // @match        http*://eggs-ext.kinkoid.com/*
 // @match        http*://*.hentaiheroes.com/*
 // @match        http*://*.comixharem.com/*
-// @grant        none
+// @license      MIT
+// @updateURL   https://github.com/RuperSama/HentaiHeroesScripts/raw/main/HentaiHeroes-AutoLogin.js
+// @downloadURL https://github.com/RuperSama/HentaiHeroesScripts/raw/main/HentaiHeroes-AutoLogin.js
+// @grant        GM_addStyle
 // ==/UserScript==
 
 var userEmail = "";
