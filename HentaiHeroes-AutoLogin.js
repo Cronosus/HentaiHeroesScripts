@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         HaremHeroes Login
-// @namespace    https://github.com/Roukys/HHauto
+// @namespace    https://github.com/Cronosus/HentaiHeroesScripts
 // @version      0.2
 // @description  AutoLogin
 // @author       RuperSama
